@@ -1,4 +1,13 @@
 {
+  "name": "bootstraplearning-npm",
+  "version": "1.0.0",
+  "description": "Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "bootstrap": "^5.3.0"
   }
